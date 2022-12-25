@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning C, C++ and Python
 - 📫 Love Writing, Photography and Badminton
 - 😄 Pronouns: Programmer/He/His
-- ![image](https://user-images.githubusercontent.com/121359706/209473344-802581b8-b3fa-46b2-b765-03bf01b68eb9.png)
+
+![image](https://user-images.githubusercontent.com/121359706/209473344-802581b8-b3fa-46b2-b765-03bf01b68eb9.png) ![image](https://user-images.githubusercontent.com/121359706/209473433-a972e324-f55a-4147-9404-6fed9c8f8650.png)
+
+
 
 
 <!---
