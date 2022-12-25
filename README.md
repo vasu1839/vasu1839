@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vasu Sharma
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning AI and ML
+- 🌱 I’m currently learning C, C++ and Python
 - 📫 Love Writing, Photography and Badminton
 
 <!---
