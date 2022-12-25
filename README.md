@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/121359706/209473710-8ccd8aff-3b0b-41af-bac0-84ee7e49feef.png)
+
 - 👋 Hi there, I’m Vasu!😁  
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning C, C++ and Python
