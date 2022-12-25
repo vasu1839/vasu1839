@@ -1,11 +1,10 @@
-  ![image](https://user-images.githubusercontent.com/121359706/209473984-40cfd9b7-0f78-4aba-b30b-e5dff1cc9759.png)
- About Me:
+  About Me:
 - 👋 Hi there, I’m Vasu!😁  
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning C, C++ and Python
 - 📫 Love Writing, Photography and Badminton
 - 😄 Pronouns: Programmer/He/His
-- ⚡ Fun fact: I love meeting new people and eating food!
+- ⚡ Fun fact: I love meeting new people!
 
   
 
