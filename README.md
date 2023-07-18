@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Cloud Computing 
 - 📫 Love Writing, Photography and Badminton
-- 😄 Pronouns: Programmer/He/His
+- 😄 Pronouns: Developer/Programmer/He/His
 - ⚡ Fun fact: I love meeting new people!
 
   
