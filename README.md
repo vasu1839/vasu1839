@@ -1,10 +1,9 @@
   About Me:
 - 👋 Hi there, I’m Vasu!😁  
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Cloud Computing 
+- 👀 Interested in Web Development
+- 🌱 Currently learning Cloud Computing 
 - 📫 Love Writing, Photography and Badminton
 - 😄 Pronouns: Developer/Programmer/He/His
-- ⚡ Fun fact: I love meeting new people!
 
   
 
